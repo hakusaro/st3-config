@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"scroll_past_end": true,
+	"tab_size": 2,
+	"theme": "Soda Light 3.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

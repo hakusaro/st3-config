@@ -1,0 +1,17 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"C# Snippets",
+		"Foundation 5 Snippets",
+		"LineEndings",
+		"Markdown Preview",
+		"Package Control",
+		"PlainTasks",
+		"SideBarEnhancements",
+		"Theme - Soda"
+	]
+}
