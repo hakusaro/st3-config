@@ -1,11 +1,11 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"color_scheme": "Packages/Theme - Lyte/Lyte-Solarized/Lyte-Solarized.tmTheme",
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"scroll_past_end": true,
 	"tab_size": 2,
-	"theme": "Soda Light 3.sublime-theme",
+	"theme": "Lyte-Solarized.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
