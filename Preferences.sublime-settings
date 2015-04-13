@@ -1,6 +1,6 @@
 {
 	"caret_style": "phase",
-	"color_scheme": "Packages/Theme - Lyte/Lyte-Solarized/Lyte-Solarized.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
 	"draw_minimap_border": false,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
@@ -11,6 +11,6 @@
 	"scroll_past_end": true,
 	"show_tab_close_buttons": false,
 	"tab_size": 2,
-	"theme": "Lyte-Solarized.sublime-theme",
+	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
