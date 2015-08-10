@@ -1,6 +1,6 @@
 {
 	"caret_style": "phase",
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
 	"draw_minimap_border": false,
 	"draw_white_space": "none",
 	"draw_indent_guides": true,
@@ -13,11 +13,11 @@
 	"scroll_past_end": true,
 	"show_tab_close_buttons": false,
 	"tab_size": 2,
-	"theme": "Soda Dark.sublime-theme",
+	"theme": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"indent_guide_options":
-  [
-    "draw_normal",
-    "draw_active"
-  ]
+	[
+		"draw_normal",
+		"draw_active"
+	]
 }
