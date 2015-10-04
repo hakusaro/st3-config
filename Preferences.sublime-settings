@@ -1,23 +1,26 @@
 {
 	"caret_style": "phase",
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"draw_indent_guides": true,
 	"draw_minimap_border": false,
 	"draw_white_space": "none",
-	"draw_indent_guides": true,
+	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"scroll_past_end": true,
-	"show_tab_close_buttons": false,
-	"tab_size": 2,
-	"theme": "Soda Light.sublime-theme",
-	"translate_tabs_to_spaces": true,
 	"indent_guide_options":
 	[
 		"draw_normal",
 		"draw_active"
-	]
+	],
+	"rubocop_path": "/Users/shank/.rvm/gems/ruby-2.2.2/wrappers/rubocop",
+	"ruby_path": "/Users/shank/.rvm/rubies/ruby-2.2.2/bin/ruby",
+	"scroll_past_end": true,
+	"show_tab_close_buttons": false,
+	"tab_size": 2,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true
 }

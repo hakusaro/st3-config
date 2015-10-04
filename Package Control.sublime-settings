@@ -1,9 +1,11 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
+		"BeautifyRuby",
 		"Better CoffeeScript",
 		"C# Snippets",
 		"Foundation 5 Snippets",
@@ -13,6 +15,7 @@
 		"Markdown Preview",
 		"Package Control",
 		"PlainTasks",
+		"Pretty Ruby",
 		"Ruby Slim",
 		"SideBarEnhancements",
 		"Theme - Lyte",
