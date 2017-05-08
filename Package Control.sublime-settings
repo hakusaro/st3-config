@@ -1,8 +1,5 @@
 {
 	"bootstrapped": true,
-	"in_process_packages":
-	[
-	],
 	"installed_packages":
 	[
 		"BeautifyRuby",
@@ -13,7 +10,6 @@
 		"hextoASCII",
 		"HexViewer",
 		"HTML2Slim",
-		"LineEndings",
 		"Markdown Preview",
 		"Package Control",
 		"PlainTasks",
