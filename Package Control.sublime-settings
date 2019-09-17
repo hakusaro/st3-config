@@ -1,25 +1,42 @@
 {
 	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
+		"A File Icon",
+		"ayu",
 		"BeautifyRuby",
 		"Better CoffeeScript",
 		"C# Snippets",
+		"Elixir",
 		"Foundation 5 Snippets",
-		"Git",
+		"Git Commit Message Syntax",
+		"Haml",
 		"hextoASCII",
 		"HexViewer",
+		"Highlight Trailing Whitespace",
 		"HTML2Slim",
-		"Markdown Preview",
+		"JSON Reindent",
+		"JSONLint",
+		"MarkdownPreview",
 		"Package Control",
 		"PlainTasks",
 		"Pretty Ruby",
+		"Pretty YAML",
 		"Print to HTML",
 		"Ruby Slim",
 		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-ruby",
+		"TestRSpec",
 		"Theme - Cola",
 		"Theme - Lyte",
 		"Theme - Soda",
-		"XmlDocs"
+		"TypeScript",
+		"TypeScript Syntax",
+		"XmlDocs",
+		"yardgen"
 	]
 }

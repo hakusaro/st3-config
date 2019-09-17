@@ -1,9 +1,48 @@
 {
 	"caret_style": "phase",
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"color_scheme": "Packages/ayu/ayu-light.sublime-color-scheme",
 	"draw_indent_guides": true,
 	"draw_minimap_border": false,
 	"draw_white_space": "none",
+	"file_exclude_patterns":
+	[
+		"*.log",
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace",
+		"*.js.map",
+		"jquery*.js",
+		"*.svg",
+		"*.cache"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".sass-cache",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules",
+		"packs-test",
+		"packs"
+	],
 	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
@@ -17,11 +56,16 @@
 		"draw_normal",
 		"draw_active"
 	],
+	"rspec_add_to_path": "$HOME/.rbenv/shims",
 	"rubocop_path": "/Users/shank/.rvm/gems/ruby-2.2.2/wrappers/rubocop",
 	"ruby_path": "/Users/shank/.rvm/rubies/ruby-2.2.2/bin/ruby",
 	"scroll_past_end": true,
+	"show_errors_inline": false,
 	"show_tab_close_buttons": false,
 	"tab_size": 2,
-	"theme": "Cola.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"theme": "ayu-light.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"ui_native_titlebar": false,
+	"ui_separator": true,
+	"ui_wide_scrollbars": false
 }
