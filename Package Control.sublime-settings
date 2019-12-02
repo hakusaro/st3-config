@@ -1,10 +1,5 @@
 {
 	"bootstrapped": true,
-	"in_process_packages":
-	[
-		"JSONLint",
-		"yardgen"
-	],
 	"installed_packages":
 	[
 		"A File Icon",
@@ -21,7 +16,6 @@
 		"Highlight Trailing Whitespace",
 		"HTML2Slim",
 		"JSON Reindent",
-		"JSONLint",
 		"MarkdownPreview",
 		"Package Control",
 		"PlainTasks",
@@ -39,6 +33,5 @@
 		"TypeScript",
 		"TypeScript Syntax",
 		"XmlDocs",
-		"yardgen"
 	]
 }
