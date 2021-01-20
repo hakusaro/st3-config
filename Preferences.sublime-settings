@@ -4,6 +4,7 @@
 	"draw_indent_guides": true,
 	"draw_minimap_border": false,
 	"draw_white_space": "none",
+	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
 		"*.log",
@@ -41,7 +42,14 @@
 		"CVS",
 		"node_modules",
 		"packs-test",
-		"packs"
+		"packs",
+		"tmp"
+	],
+	"font_face": "Fira Code Medium",
+	"font_options":
+	[
+		"subpixel_antialias",
+		"gray_antialias"
 	],
 	"font_size": 12,
 	"highlight_line": true,
@@ -58,9 +66,7 @@
 		"draw_normal",
 		"draw_active"
 	],
-	"rspec_add_to_path": "$HOME/.rbenv/shims",
-	"rubocop_path": "/Users/shank/.rvm/gems/ruby-2.2.2/wrappers/rubocop",
-	"ruby_path": "/Users/shank/.rvm/rubies/ruby-2.2.2/bin/ruby",
+	"ruby_path": "/Users/particles/.rubies/ruby-2.6.3/bin/ruby",
 	"scroll_past_end": true,
 	"show_errors_inline": false,
 	"show_tab_close_buttons": false,

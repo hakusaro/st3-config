@@ -1,14 +1,17 @@
 {
 	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
-		"A File Icon",
 		"ayu",
 		"BeautifyRuby",
 		"Better CoffeeScript",
 		"C# Snippets",
 		"Elixir",
 		"Foundation 5 Snippets",
+		"Git",
 		"Git Commit Message Syntax",
 		"Haml",
 		"hextoASCII",
@@ -17,6 +20,7 @@
 		"HTML2Slim",
 		"JSON Reindent",
 		"MarkdownPreview",
+		"nginx",
 		"Package Control",
 		"PlainTasks",
 		"Pretty Ruby",
@@ -26,12 +30,12 @@
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-ruby",
+		"Terraform",
 		"TestRSpec",
 		"Theme - Cola",
 		"Theme - Lyte",
 		"Theme - Soda",
 		"TypeScript",
-		"TypeScript Syntax",
-		"XmlDocs",
+		"TypeScript Syntax"
 	]
 }
